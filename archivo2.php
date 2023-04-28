@@ -8,5 +8,6 @@
 </head>
 
 <?php 
-	$var = 10;
+	$variable = 10;
+	echo $variable;
 ?>
